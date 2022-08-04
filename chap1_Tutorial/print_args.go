@@ -3,10 +3,10 @@ Name of the program: print_args
 Topics covered:
     - Variable short declaration;
     - String concatenation;
-    - Loops;
+    - Loops with range;
     - Importing multiple libs;
     - Basic slicing;
-    - Int to string convertion;
+    - Int to string conversion;
 */
 
 //Prints the arguments from CLI.
